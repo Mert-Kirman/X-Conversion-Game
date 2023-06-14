@@ -12,11 +12,9 @@ around the targeted square.
 
 There are two phases to the +X- Game: 
 
-- In the first phase the player sets a size for the game board which consists of "-"
+- In the first phase the player sets a size for the game board which consists of "-" in all the squares. Then player 
 
-in all the squares. Then player decides how many "+" signs to place on the board, meaning player creates a custom board before
-
-starting the game. 
+decides how many "+" signs to place on the board, meaning player creates a custom board before starting the game. 
 
 - In the second phase of the game, the player tries to turn all squares with the "+" sign to "-" by targeting 
 
